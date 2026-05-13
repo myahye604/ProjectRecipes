@@ -9,12 +9,15 @@ A beginner HTML project from [The Odin Project](https://www.theodinproject.com/)
 - Use semantic elements: headings, images, paragraphs, and lists
 
 ## Structure
+
+```
 odin-recipes/
 ├── index.html
 └── recipes/
-├── lasagna.html
-├── spaghetti-bolognese.html
-└── [third-recipe].html
+    ├── lasagna.html
+    ├── spaghetti-bolognese.html
+    └── [third-recipe].html
+```
 
 ## Usage
 
