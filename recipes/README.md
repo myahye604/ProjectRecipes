@@ -30,7 +30,7 @@ Each recipe page practices a variety of HTML elements in context:
 <ol> — ordered lists for step-by-step instructions
 
 4. Site Navigation
-The index page links to all recipes using an unordered list of anchor tags, and each recipe page links back home — introducing the concept of consistent site navigation.
+The index page links to all two recipes using an unordered list of anchor tags, and each recipe page links back home — introducing the concept of consistent site navigation.
 
 🗂️ Project Structure
 odin-recipes/
